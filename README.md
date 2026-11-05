@@ -1,3 +1,7 @@
+![Python](https://img.shields.io/badge/Python-3.12-blue?logo=python&logoColor=white)
+![OpenGL](https://img.shields.io/badge/OpenGL-2D-green?logo=opengl&logoColor=white)
+![License](https://img.shields.io/badge/License-MIT-yellow.svg)
+
 # Лабораторная работа по дисциплине "Компьютерная графика" №2: Построение геометрических изображений 
 
 ## 📝 Описание задачи
